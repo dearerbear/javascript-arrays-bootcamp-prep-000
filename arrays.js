@@ -1,3 +1,3 @@
-var evenNumbers = new Array(6,8,2,6);
+var evenNumbers = new Array();
 
-console.log("evenNumbers");
+console.log(evenNumbers);
